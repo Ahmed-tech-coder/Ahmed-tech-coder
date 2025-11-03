@@ -144,10 +144,10 @@ AlWafa Timber Trading (https://alwafatrading.com/)
 
 Mr Biology Platform (https://mr-biology.com/)
  – Educational platform for managing students, lessons, and sessions with advanced admin features.
-
+ 
 ITR-Learning Education (https://itr-learning.com/)
  – Platform for teaching Networking & Cybersecurity, including lessons and learning resources.
----
+
 
 ### 🎓 Education  
 **Bachelor of Computer Science** – Benha University, Egypt  
