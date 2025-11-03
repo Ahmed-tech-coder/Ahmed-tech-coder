@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ahmed-magdy-023536240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@ahmedTech-0" target="_blank">
+  <a href="https://www.youtube.com/@devway-academy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/_ahmed__magdi_/" target="_blank">
@@ -39,9 +39,9 @@
 ###
 
 <p align="center">
-📍 Shubra El-Kheima, Egypt <br>
-📧 <a href="mailto:ahmed20magdi05@gmail.com">ahmed20magdi05@gmail.com</a> | 📞 +20 112 734 6022 <br>
-🌐 <a href="https://ahmed-software-engineer.vercel.app" target="_blank">Portfolio</a>
+ Shubra El-Kheima, Egypt <br>
+ <a href="mailto:ahmed20magdi05@gmail.com">ahmed20magdi05@gmail.com</a> |  +20 112 734 6022 <br>
+ <a href="https://ahmed-software-engineer.vercel.app" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -133,12 +133,20 @@
 
 ---
 
-### 🚀 Projects  
+🚀 Projects
 
-- **[AlWafa Timber Trading](https://alwafatrading.com)** – E-commerce platform with admin dashboard, category filters, cart, CRUD, animations & more.  
-- **[Ahmed Ayad Biology Platform](https://mr-biology.com)** – Educational platform for managing students, lessons, and sessions with advanced admin features.  
-- **[ITR-Learning Education](https://itr-learning.com)** – Platform for teaching **Networking & Cybersecurity**, including lessons and learning resources.  
+Packadgek Store (https://packadgek.com/)
+ – Full-stack E-commerce platform for selling high school books.
+Built with React.js (Frontend) and PHP (Backend).
 
+AlWafa Timber Trading (https://alwafatrading.com/)
+ – E-commerce platform with admin dashboard, category filters, cart, CRUD, animations & more.
+
+Mr Biology Platform (https://mr-biology.com/)
+ – Educational platform for managing students, lessons, and sessions with advanced admin features.
+
+ITR-Learning Education (https://itr-learning.com/)
+ – Platform for teaching Networking & Cybersecurity, including lessons and learning resources.
 ---
 
 ### 🎓 Education  
