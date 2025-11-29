@@ -39,7 +39,7 @@
 ###
 
 <p align="center">
- Shubra El-Kheima, Egypt <br>
+  Egypt <br>
  <a href="mailto:ahmed20magdi05@gmail.com">ahmed20magdi05@gmail.com</a> |  +20 112 734 6022 <br>
  <a href="https://ahmed-software-engineer.vercel.app" target="_blank">Portfolio</a>
 </p>
