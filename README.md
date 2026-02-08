@@ -41,7 +41,7 @@
 <p align="center">
   Egypt <br>
  <a href="mailto:ahmed20magdi05@gmail.com">ahmed20magdi05@gmail.com</a> |  +20 112 734 6022 <br>
- <a href="https://ahmed-software-engineer.vercel.app" target="_blank">Portfolio</a>
+ <a href="https://ahmedmagdy-software-engineer.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -61,6 +61,8 @@
 ### 🎨 Frontend  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/angular-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
@@ -148,6 +150,8 @@ Mr Biology Platform (https://mr-biology.com/)
 ITR-Learning Education (https://itr-learning.com/)
  – Platform for teaching Networking & Cybersecurity, including lessons and learning resources.
 
+Ahmed Ramadan Fitness Coach Platform (https://ahmedramadancoach.com/)
+- Full-stack web platform for fitness coaching, featuring user authentication, program management, subscriptions, and scalable REST APIs.
 
 ### 🎓 Education  
 **Bachelor of Computer Science** – Benha University, Egypt  
