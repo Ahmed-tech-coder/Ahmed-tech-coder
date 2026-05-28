@@ -157,8 +157,9 @@ A comprehensive fitness coaching platform featuring user authentication, subscri
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahmed-tech-coder&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-tech-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahmed-tech-coder&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-tech-coder&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
