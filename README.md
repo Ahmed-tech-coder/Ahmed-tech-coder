@@ -219,7 +219,7 @@ I'm open to full-time roles, freelance projects, and technical collaborations.
 | ------------ | ------------------------------------------------------------------------------------------- |
 | 💼 LinkedIn  | [ahmed-magdy-023536240](https://www.linkedin.com/in/ahmed-magdy-023536240)                  |
 | 🌐 Portfolio | [ahmedmagdy-software-engineer.vercel.app](https://ahmedmagdy-software-engineer.vercel.app/) |
-| 📧 Email     | [ahmed20magdi@gmail.com](mailto:ahmed20magdi@gmail.com)                                     |
+| 📧 Email     | [ahmed20magdi@gmail.com](mailto:contact.ahmedmagdy@gmail.com)                                     |
 | 💬 WhatsApp  | [+201127346022](https://wa.me/+201127346022)                                                |
 | 📺 YouTube   | [DevWay Academy](https://www.youtube.com/@devway-academy)                                   |
 | 📸 Instagram | [@*ahmed__magdi*](https://www.instagram.com/_ahmed__magdi_/)                                |
